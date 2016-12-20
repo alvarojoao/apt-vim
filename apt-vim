@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 import json, sys, os, re, shutil, shlex, getopt, platform, stat, ast, signal
 from distutils.util import strtobool
 from subprocess import call, check_output, CalledProcessError
